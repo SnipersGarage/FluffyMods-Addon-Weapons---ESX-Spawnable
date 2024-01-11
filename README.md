@@ -131,13 +131,6 @@ This will go into your esx/es_extended/config.weapons.lua
 			{name = 'luxary_finish', label = _U('component_luxary_finish'), hash = `COMPONENT_SMG_VARMOD_LUXE`}
 		}
 	},
-	{
-		name = 'WEAPON_MEGAPHONE',
-		label = _U('weapon_megaphone'),
-		components = {
-
-		}
-	},		
 
 	{
 		name = 'WEAPON_M4A1FM',
